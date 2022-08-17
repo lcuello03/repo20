@@ -1,0 +1,9 @@
+.vscode/*
+node_modules/
+out/
+bin/
+!.vscode/tasks.json
+!.vscode/launch.json
+dist/
+coverage/*
+.env
